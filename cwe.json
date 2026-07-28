@@ -1,0 +1,7 @@
+{
+  "CWE-79": "Cross-site Scripting",
+  "CWE-16": "Configuration",
+  "CWE-200": "Information Exposure",
+  "CWE-319": "Cleartext Transmission",
+  "CWE-1021": "Improper Restriction of Rendered UI Layers"
+}
