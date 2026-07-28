@@ -1,0 +1,26 @@
+appsec-toolkit/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── modules/
+│   ├── __init__.py
+│   ├── headers.py
+│   ├── jwt_decoder.py
+│   ├── ssl_check.py
+│   ├── methods.py
+│   ├── hash_identifier.py
+│   ├── password_checker.py
+│   ├── base64_tool.py
+│   ├── cvss.py
+│   └── report.py
+│
+├── mappings/
+│   ├── cwe.json
+│   ├── owasp_top10.json
+│   └── api_security.json
+│
+├── reports/
+│
+└── screenshots/
