@@ -18,7 +18,7 @@ A Python-based toolkit for Application Security Engineers, Penetration Testers, 
 ## Installation
 
 ---bash
-git clone https://github.com/yourusername/appsec-toolkit.git
+git clone https://github.com/Swanoop10082001/appsec-toolkit.git
 cd appsec-toolkit
 pip install -r requirements.txt
 ```
